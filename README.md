@@ -1,2 +1,2 @@
 # FirstProject
-This is my First Project git.
+This is my First Project in git.
